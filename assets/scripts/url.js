@@ -22,7 +22,7 @@
     var urlCities = Url.get().split("/");
   };
 
-  exports.defaultCities = "tokyo/sanfrancisco/";
+  exports.defaultCities = "bangkok/sanfrancisco/";
 
 })(this.Url = {})
 
